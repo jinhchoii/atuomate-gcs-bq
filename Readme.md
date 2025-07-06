@@ -1,7 +1,7 @@
 # Automate data upload to Bigquery 
 
 ## Introduction 
-create a cloud function trigger to automatically create table and upload data to Bigquery
+created a cloud function trigger to automatically create table and upload data to Bigquery
 
 ## Architecture 
 <img src="Architecture.png">
